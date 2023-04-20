@@ -1,0 +1,10 @@
+T:  Bus=01 Lev=01 Prnt=02 Port=01 Cnt=01 Dev#=  6 Spd=12   MxCh= 0
+D:  Ver= 2.00 Cls=ff(vend.) Sub=ff Prot=ff MxPS=64 #Cfgs=  1
+P:  Vendor=045e ProdID=028e Rev=01.10
+S:  Manufacturer=ShanWan
+S:  Product=Controller(XBOX 360 For Windows)
+C:  #Ifs= 1 Cfg#= 1 Atr=80 MxPwr=500mA
+I:  If#= 0 Alt= 0 #EPs= 2 Cls=ff(vend.) Sub=5d Prot=01 Driver=xpad
+E:  Ad=02(O) Atr=03(Int.) MxPS=  32 Ivl=8ms
+E:  Ad=81(I) Atr=03(Int.) MxPS=  32 Ivl=4ms
+
